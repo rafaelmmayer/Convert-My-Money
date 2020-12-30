@@ -15,7 +15,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.0.1",
     "node-notifier": ">=8.0.1"
   }
 }
